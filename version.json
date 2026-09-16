@@ -1,5 +1,5 @@
 {
-    "latest_version": "2.0.0",
-    "download_url": "https://github.com/MidMac7/H-Finance/releases/download/v2.0.0/H-Finance_Setup_v2.0.0.exe",
-    "release_notes": "در این نسخه، هسته اصلی نرم‌افزار بازنویسی شده و پایداری تراکنش‌های مالی به بالاترین سطح رسیده است."
+    "latest_version": "2.1.0",
+    "download_url": "https://github.com/MidMac7/H-Finance/releases/download/v2.1.0/H-Finance_Setup_v2.1.0.exe",
+    "release_notes": "فیکس شدن مشکل خروجی فاکتور ها"
 }
