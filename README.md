@@ -1,3 +1,4 @@
+[Uploading Trial.txt…]()
 # H-Finance
 سیستم جامع حسابداری
 🌐 راهنمای راه‌اندازی نسخه تحت شبکه (کلاینت / سرور)
@@ -35,7 +36,9 @@
 تنظیمات را ذخیره کرده و نرم‌افزار را یک‌بار ببندید و باز کنید. اکنون سیستم شما به سرور متصل است!
 
 
+HFIN-2YbYs9iu2YcgRW50ZXJwcmlzZSDbjNqp4oCM2LPYp9mE2Yd8MjAyNy0xMC0xNXxBTlk.3627930FE9
 
+HFIN-2YbYs9iu2Ycg2KLYstmF2KfbjNi024wg27HbtSDYsdmI2LLZh3wyMDI2LTEwLTMwfEFOWQ.4A2C3E15E5
 
 وارد سایت Google Cloud Console شوید و یک پروژه جدید به نام فروشگاه خود بسازید.
 
